@@ -7,10 +7,4 @@ output:
     bookdown::gitbook: default
 ---
 
-# Pierwszy
-
-Hi.
-
-# Drugi
-
-Bye.
+# Pierwszy {-}
